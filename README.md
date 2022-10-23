@@ -16,7 +16,7 @@
 
 ![Screenshot_1](https://user-images.githubusercontent.com/60463845/197375920-e6eed0ae-6eea-4919-ab1b-ba8c280ccfb2.png)
 
-- Sonra yapmanız gereken şey klasörlerin main dosyalarını `ecosystem.confi.js` dosyasında belirtmek oda şu şekilde.
+- Sonra yapmanız gereken şey klasörlerin main dosyalarını `ecosystem.config.js` dosyasında belirtmek oda şu şekilde.
 
 ```js
 module.exports = {
