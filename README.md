@@ -66,8 +66,8 @@ module.exports = {
 - `null#4000` veya 
 - web sitemden discorda gelebilir ve satın alın işlemleri yapabilirsiniz.
 
-- https://harmonydc.xyz/discord
-- https://harmonydc.xyz/magaza
+- https://hornystime.com/discord
+- https://hornystime.com/magaza
 
 
 
