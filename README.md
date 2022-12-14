@@ -44,6 +44,12 @@ module.exports = {
 ![Screenshot_2](https://user-images.githubusercontent.com/60463845/197376348-2c6f69f2-0ea8-42cc-97d6-17b455e80452.png)
 
 
+# VDS kullanıyorsunuz !!!
+
+- Bütün config ve sistemleriniz hazır ise botların bulunduğu klasöre `SHIFT + MAUSE RIGHT` kısayolunu kullanarak `CMD` açınız ve 
+- `npm init -y` komutu ile temiz bir package.json dosyası oluşturun.
+- sonra `npm i pm2@latest -g -s` yazınız indirme işlemi bittikten sonra ise.
+- `pm2 start` yazmanız yeterli olucaktır.
 
 # Sistemi kapatma
 
