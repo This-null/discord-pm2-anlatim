@@ -69,8 +69,8 @@ module.exports = {
 - Buradan kısa süre önce tanışmış olduğum ramal dostuma selamlar <3
 - Sorun hata veya yardım işlemleriniz için 
 
-- `null#4000` veya 
-- web sitemden discorda gelebilir ve satın alın işlemleri yapabilirsiniz.
+- `null.rb` veya 
+- web sitemden discorda gelebilir ve satın alım işlemleri yapabilirsiniz.
 
 - https://skydev.com.tr/discord
 
